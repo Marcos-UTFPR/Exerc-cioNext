@@ -5,6 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
+# OBSERVATION: Use Command Prompt, not Powershell
 npm run dev
 # or
 yarn dev
